@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.linkedinclone.ui.HomeFragment"
+        android:label="HomeFragment" />
+    <fragment
+        android:id="@+id/networkFragment"
+        android:name="com.example.linkedinclone.ui.NetworkFragment"
+        android:label="NetworkFragment" />
+    <fragment
+        android:id="@+id/shareFragment"
+        android:name="com.example.linkedinclone.ui.ShareFragment"
+        android:label="ShareFragment" />
+    <fragment
+        android:id="@+id/notificationsFragment"
+        android:name="com.example.linkedinclone.ui.NotificationsFragment"
+        android:label="NotificationsFragment" />
+    <fragment
+        android:id="@+id/jobsFragment"
+        android:name="com.example.linkedinclone.ui.JobsFragment"
+        android:label="JobsFragment" />
+</navigation>

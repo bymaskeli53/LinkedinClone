@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#ffffff</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/linkedin_splash_icon_animated</item>
+        <item name="postSplashScreenTheme">@style/Theme.LinkedinClone</item>
+
+    </style>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Linkedin</string>
+    <string name="search">Arama Yap</string>
+    <string name="home">Ana Sayfa</string>
+    <string name="network">Ağım</string>
+    <string name="share">Yayınla</string>
+    <string name="jobs">İş İlanları</string>
+</resources>
